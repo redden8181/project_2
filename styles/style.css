@@ -68,7 +68,7 @@
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
-  z-index: -2;
+  z-index: -1;
 }
 
 .description {
@@ -274,7 +274,7 @@
 }
 
 .kaufman__triangle {
-  background-image: url(/Users/den/Desktop/div/how-to-learn/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   position: absolute;
   top: 0px;
   background-size: cover;
@@ -342,11 +342,6 @@
   margin: 20px 0 16px 0;
   padding: 0;
   list-style-type: none;
-}
-
-.footer__social-links {
-  margin: 20px 0 16px 0;
-  padding: 0;
 }
 
 .footer__column-link {
