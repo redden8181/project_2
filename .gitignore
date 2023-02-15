@@ -1,2 +1,7 @@
+package-lock.json
+package.json
+node_modules/
 .DS_Store
-.md
+texts-brief1.md
+texts-brief2.md
+texts.md
