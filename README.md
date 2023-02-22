@@ -12,4 +12,4 @@
 - Таблицы
 - Добавляли ресурсы с помощью **iframe**
 
-<img src="/images/logo_place_header.svg">
+<img src="/images/logo_place_footer.svg">
